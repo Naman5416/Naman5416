@@ -1,5 +1,22 @@
 # 💫 About Me:
-Python automation projects that solve daily-use problems and reduce manual, repetitive work.<br><br>Beginner to intermediate Python projects related to automation, data handling, and real-world problem solving.<br><br>Improving my Python skills, writing clean and efficient code, and learning best practices used in real projects.<br><br>Python for automation, data analysis using pandas, and building practical projects to strengthen my fundamentals.<br><br>Python basics, automation scripts, CSV/Excel data processing, and beginner-friendly project ideas.<br><br>I enjoy turning boring, time-consuming tasks into simple Python scripts.<br>
+🚀 I’m currently working on
+Python automation projects that solve daily-use problems and reduce manual, repetitive work.
+
+🤝 I’m looking to collaborate on
+Beginner to intermediate Python projects related to automation, data handling, and real-world problem solving.
+
+🧠 I’m looking for help with
+Improving my Python skills, writing clean and efficient code, and learning best practices used in real projects.
+
+🌱 I’m currently learning
+Python for automation, data analysis using pandas, and building practical projects to strengthen my fundamentals.
+
+💬 Ask me about
+Python basics, automation scripts, CSV/Excel data processing, and beginner-friendly project ideas.
+
+⚡ Fun fact
+I enjoy turning boring, time-consuming tasks into simple Python scripts.
+
 
 
 ## 🌐 Socials:
